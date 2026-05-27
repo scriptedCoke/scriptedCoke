@@ -1,4 +1,4 @@
-### 👋 Hej, I'm scriptedCoke
+### 👋 Hey, I'm scriptedCoke
 
 Programmer skilled in Python and Lua, specializing in game development, dabbles in discord bots.
 
